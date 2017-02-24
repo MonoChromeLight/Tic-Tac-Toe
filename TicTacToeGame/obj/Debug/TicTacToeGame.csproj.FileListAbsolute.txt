@@ -1,0 +1,9 @@
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csprojResolveAssemblyReference.cache
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.mainForm.resources
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.Cache
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+D:\Uni\CSharp\TicTacToe\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
